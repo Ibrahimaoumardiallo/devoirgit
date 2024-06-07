@@ -15,5 +15,5 @@ git config --global user.email "ibrahimaoumardiallo9@gmail.com"
 # apres avoir faire creation du fichier index.html et faire
 git add index.html
 git commit -m "ajout du fichier index.html"
-bon retour sur la branche feature et on va envoyer sur le depot
+bon retour sur la branche feature et on va envoyer sur le depot a distant
 git checkout main //bascluer sur la branch main  pour completer le fichier html
